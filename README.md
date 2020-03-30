@@ -1,4 +1,3 @@
-
 Online Gas Station System
 
 Managing a gas station is really tough and as a result gaining a competitive advantage in this industry is very difficult. That’s why owners of these businesses take risks, try new challenges and keep in touch with the latest on constant basis in order to make their gas station stand out. And in order for this to happen, measures should be taken to improve all features of the business by highlighting customer service and security so that it makes a difference in the costumer’s experience. 
